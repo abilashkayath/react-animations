@@ -1,0 +1,16 @@
+.first-row{
+    margin-top: 3%;
+    position: relative;
+    .first-row-1{
+       display: inline-block;
+        img{
+            width: 130px;
+        }
+    }
+    .first-row-2{
+        display: inline-block;
+        h1{
+            color: rebeccapurple;
+        }
+    }
+}
